@@ -18,6 +18,7 @@ export default function LiveChat() {
         }, 1500)
 
         return () => clearInterval(i);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 
     return (
