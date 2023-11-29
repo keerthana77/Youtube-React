@@ -1,5 +1,2 @@
-## Debouncing 
-
-If we type slow - 200ms
-type fast - 30ms 
-
+Project link 
+https://youtube-namaste-react.netlify.app/
